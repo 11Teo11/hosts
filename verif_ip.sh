@@ -1,4 +1,5 @@
 #!/bin/bash
+SIMON ALBERT
 host=$1
 IP=$2
 DNS=$3
